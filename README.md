@@ -9,3 +9,7 @@ Projetei essa pcb em uns 30 minutos.
 
 ## A pcb:
 <img width="1143" height="576" alt="image" src="https://github.com/user-attachments/assets/d8806ba5-e3c0-4b60-a29e-cba95efa2777" />
+
+## A esquemática:
+<img width="887" height="476" alt="image" src="https://github.com/user-attachments/assets/7ff1f564-8b07-421c-b0ca-be18a2c9c06a" />
+
